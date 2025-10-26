@@ -1,1 +1,1 @@
-# K-Means-Machining-State-Detection
+# K-Means Machining State Detection
